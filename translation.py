@@ -5,7 +5,7 @@ I'm <b>Url Uploader Bot! ✨</b>
 Send me a direct link and I will upload it to telegram as a file/video.</b>
 /help for more details!
 
-<b>Join @SynBots"""
+<b>Join @sparxmod"""
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
     
 Ex: <a href='https://telegra.ph/file/198bcda5944f787373122.jpg'>See This!</a> 👇"""
@@ -42,7 +42,7 @@ Sorry. I cannot upload files greater than 2GB due to Telegram API limitations.
     UNKNOWN_ERROR = """<b>❗UNKNOWN ERROR❗</b>
 I don't know what just happened 🙃
 But I'm going to find out and fix it as soon as possible 🧐"""
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "👍 Thanks for using @knoxprojects."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "👍 Thanks for using @sparxmod."
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """<i>◽ Downloaded in <b>{} seconds</b></i>
 <i>◽ Uploaded in <b>{} seconds</b></i> please consider donate"""
     SAVED_CUSTOM_THUMB_NAIL = "◽ Custom video/file thumbnail saved. This image will be used in the video/file."
