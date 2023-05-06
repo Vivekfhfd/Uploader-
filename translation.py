@@ -27,7 +27,7 @@ Ex: <a href='https://telegra.ph/file/198bcda5944f787373122.jpg'>See This!</a> �
 URL | filename | username | password"""
     DOWNLOAD_START = """<b>File detected:</b> {}
     
-<b>Downloading to my server... </b>
+<b>Wait Dear 💓 Your Download is in progress ❤️... </b>
 <b>▫️Downloaded:</b> <i>in {} seconds</i>
 <b>▫️Detected file size:</b> <i>{}</i>"""
 
