@@ -28,6 +28,8 @@ URL | filename | username | password"""
     DOWNLOAD_START = """<b>File detected:</b> {}
     
 <b>Downloading to my server... </b>
+<b>▫️Downloaded:</b> <i>in {} seconds</i>
+<b>▫️Detected file size:</b> <i>{}</i>"""
 
 Please wait uploading will start as soon as possible 😎"""
     UPLOAD_START = "<b>Uploading to Telegram... </b>"
