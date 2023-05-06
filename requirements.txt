@@ -1,5 +1,5 @@
 pyrogram==1.4.16
-yt-dlp==2023.02.17
+Git+https://github.com/mrinvisible7/yt-dlp
 motor
 dnspython
 Pillow
@@ -21,4 +21,4 @@ loggers
 filetype
 tldextract
 aiofiles
-pyromod
+pyromod==1.5
