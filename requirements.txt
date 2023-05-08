@@ -1,6 +1,7 @@
 pyrogram==1.4.16
 Git+https://github.com/mrinvisible7/yt-dlp
 motor
+ffmpeg
 dnspython
 Pillow
 aiohttp
