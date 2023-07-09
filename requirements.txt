@@ -1,5 +1,5 @@
 pyrogram==1.4.16
-Git+https://github.com/mrinvisible7/yt-dlp
+yt-dlp
 motor
 ffmpeg
 dnspython
